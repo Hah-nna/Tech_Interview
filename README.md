@@ -23,3 +23,4 @@
 |5회차|- JS : 깊은 복사 & 얕은 복사<br> - React: SSR, CSR, SSG<br> - NextWork: REST API, OAuth와 JWT의 차이점 |
 |6회차|- JS : 버블링, 캡쳐링, 이벤트위임<br/> - React: Redux와 Recoil에 대해 비교 설명해주세요(자기가 써본 전역 상태관리 라이브러리도 다 포함해서 비교 설명)<br/> - 웹사이트 성능 최적화에는 어떤 방법이 있나요?<br /> - 협업에서 기억에 가장 남는 상황, 협업에서 어려웠던 경험(어려웠던 이유, 어떻게 해결했는지)<br/> -“팀에서 1인분을 한다”고 할 때, 1인분은 어떤걸 의미하는걸까요?
 |7회차|-JS : - Props와 State의 차이, React에서 State의 불변성은 어떻게 유지할 수 있나요?, Key Props를 사용하는 이유에 대해 설명<br/>TypeScript: - 타입스크립트를 사용하는 이유, Type과 Interface의 차이점 <br/> Web(프론트 전반): SEO <br/> -Network: TCP의 3-Way-Handshake와 4-Way-Handshake|
+|8회차|-JS : - 디바운스, 쓰로틀링|
